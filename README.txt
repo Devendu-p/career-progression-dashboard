@@ -1,0 +1,1 @@
+Career Progression Dashboard\n\nRun locally:\n1. Install Python 3.10+.\n2. Open a terminal in this folder.\n3. Run: python -m pip install -r requirements.txt\n4. Run: streamlit run app.py\n5. Open the local URL Streamlit prints (usually http://localhost:8501).\n6. Upload your employee CSV in the app.\n\nVerify the dataset's source before attributing it to Palo Alto Networks.\n
